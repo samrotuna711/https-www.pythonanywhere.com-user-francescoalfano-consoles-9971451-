@@ -1,0 +1,40 @@
+    1  ls
+    2  git config --global user.name "francescoalfano"
+    3  git config --global user.email "samrotuna71@gmail.com"
+    4  ls
+    5  git config --global user.name "francescoalfano"
+    6  cd mysite
+    7  git status
+    8  git add .
+    9  git commit -m "les derniers sont les premiers. vous etes enseignant en droit publique. les connaissances en tant que telles."
+   10  mkvirtualenv flask-tutorial --python=python3.6
+   11  pip install flask flask-login flask-sqlalchemy mysql-connector-python
+   12  pip freeze > requirements.txt
+   13  git status
+   14  git add .
+   15  git commit -m "le onzieme ou le douzieme, le combien de fils de jacob"
+   16  pip install Flask-Migrate
+   17  export FLASK_APP=flask_app.py
+   18  flask db init
+   19  flask db migrate
+   20  flask db stamp head
+   21  pip freeze > requirements.txt
+   22  git status
+   23  git add .
+   24  git commit -m "la cuisine des apotres"
+   25  flask db migrate
+   26  flask db upgrade
+   27  git status
+   28  git add .
+   29  git commit -m "filles de la charite, c'etait notre dame de la chaume"
+   30  flask db migrate
+   31  flask db upgrade
+   32  flask shell
+   33  echo "# https-www.pythonanywhere.com-user-francescoalfano-consoles-9971451-" >> README.md
+   34  git init
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git remote add origin https://github.com/samrotuna711/https-www.pythonanywhere.com-user-francescoalfano-consoles-9971451-.git
+   38  git push -u origin master
+   39  history
+   40  history > history.txt
